@@ -1,5 +1,7 @@
 # isu7final
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/isucon7-final.svg)](https://www.guardrails.io)
+
 ## ディレクトリ構成
 
 ```
